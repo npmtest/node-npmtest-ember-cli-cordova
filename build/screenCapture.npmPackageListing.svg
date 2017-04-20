@@ -1,0 +1,96 @@
+<svg height="1486" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1486" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 06:05:24 +0000    89567 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 06:05:24 +0000      805 bytes  Brocfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 06:05:24 +0000     1055 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 06:05:24 +0000     2860 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 06:05:24 +0000      265 bytes  addon/initializers/in-app-livereload.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 06:05:24 +0000      601 bytes  addon/mixins/controllers/nav-bar.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 06:05:24 +0000     1410 bytes  addon/mixins/cordova-events.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 06:05:24 +0000     1932 bytes  addon/mixins/routes/nav-bar.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 06:05:24 +0000     1176 bytes  addon/services/cordova.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 06:05:24 +0000      199 bytes  addon/utils/redirect.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 06:05:24 +0000       92 bytes  app/components/cdv-nav-bar.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 06:05:24 +0000      566 bytes  app/initializers/in-app-livereload.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 06:05:24 +0000      134 bytes  app/services/cordova.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 06:05:24 +0000      488 bytes  app/templates/cdv-generic-nav-bar.hbs</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 06:05:24 +0000       10 bytes  app/templates/components/cdv-nav-bar.hbs</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 06:05:24 +0000     1160 bytes  blueprints/cordova-init/files/config/environment\</tspan>
+<tspan x="10" y="282">.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-20 06:05:24 +0000     1069 bytes  blueprints/cordova-init/files/gitignore</tspan>
+<tspan x="10" y="314"> 17.  2017-04-20 06:05:24 +0000     1222 bytes  blueprints/cordova-init/index.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-20 06:05:24 +0000      146 bytes  blueprints/cordova-starter-kit/files/app/adapter\</tspan>
+<tspan x="10" y="346">s/application.js</tspan>
+<tspan x="10" y="362"> 19.  2017-04-20 06:05:24 +0000      209 bytes  blueprints/cordova-starter-kit/files/app/routes/\</tspan>
+<tspan x="10" y="378">application.js</tspan>
+<tspan x="10" y="394"> 20.  2017-04-20 06:05:24 +0000      270 bytes  blueprints/cordova-starter-kit/files/app/styles/\</tspan>
+<tspan x="10" y="410">app.scss</tspan>
+<tspan x="10" y="426"> 21.  2017-04-20 06:05:24 +0000       95 bytes  blueprints/cordova-starter-kit/files/app/templat\</tspan>
+<tspan x="10" y="442">es/application.hbs</tspan>
+<tspan x="10" y="458"> 22.  2017-04-20 06:05:24 +0000       31 bytes  blueprints/cordova-starter-kit/files/app/transit\</tspan>
+<tspan x="10" y="474">ions.js</tspan>
+<tspan x="10" y="490"> 23.  2017-04-20 06:05:24 +0000     1893 bytes  blueprints/cordova-starter-kit/files/config/envi\</tspan>
+<tspan x="10" y="506">ronment.js</tspan>
+<tspan x="10" y="522"> 24.  2017-04-20 06:05:24 +0000     1108 bytes  blueprints/cordova-starter-kit/index.js</tspan>
+<tspan x="10" y="538"> 25.  2017-04-20 06:05:24 +0000      598 bytes  bower.json</tspan>
+<tspan x="10" y="554"> 26.  2017-04-20 06:05:24 +0000     1533 bytes  docs/commands.md</tspan>
+<tspan x="10" y="570"> 27.  2017-04-20 06:05:24 +0000     1163 bytes  docs/configuration.md</tspan>
+<tspan x="10" y="586"> 28.  2017-04-20 06:05:24 +0000     1599 bytes  docs/events.md</tspan>
+<tspan x="10" y="602"> 29.  2017-04-20 06:05:24 +0000      966 bytes  docs/faq.md</tspan>
+<tspan x="10" y="618"> 30.  2017-04-20 06:05:24 +0000     6233 bytes  docs/getting-started.md</tspan>
+<tspan x="10" y="634"> 31.  2017-04-20 06:05:24 +0000     6308 bytes  docs/getting-started.md.orig</tspan>
+<tspan x="10" y="650"> 32.  2017-04-20 06:05:24 +0000     2179 bytes  docs/nav-bar.md</tspan>
+<tspan x="10" y="666"> 33.  2017-04-20 06:05:24 +0000     3432 bytes  index.js</tspan>
+<tspan x="10" y="682"> 34.  2017-04-20 06:05:24 +0000      789 bytes  lib/commands/archive.js</tspan>
+<tspan x="10" y="698"> 35.  2017-04-20 06:05:24 +0000      678 bytes  lib/commands/build.js</tspan>
+<tspan x="10" y="714"> 36.  2017-04-20 06:05:24 +0000      630 bytes  lib/commands/cordova.js</tspan>
+<tspan x="10" y="730"> 37.  2017-04-20 06:05:24 +0000      231 bytes  lib/commands/index.js</tspan>
+<tspan x="10" y="746"> 38.  2017-04-20 06:05:24 +0000      600 bytes  lib/commands/open.js</tspan>
+<tspan x="10" y="762"> 39.  2017-04-20 06:05:24 +0000      777 bytes  lib/commands/prepare.js</tspan>
+<tspan x="10" y="778"> 40.  2017-04-20 06:05:24 +0000     1646 bytes  lib/ext/promise.js</tspan>
+<tspan x="10" y="794"> 41.  2017-04-20 06:05:24 +0000      687 bytes  lib/models/project-with-config.js</tspan>
+<tspan x="10" y="810"> 42.  2017-04-20 06:05:24 +0000      347 bytes  lib/tasks/add-platforms.js</tspan>
+<tspan x="10" y="826"> 43.  2017-04-20 06:05:24 +0000     2011 bytes  lib/tasks/archive.js</tspan>
+<tspan x="10" y="842"> 44.  2017-04-20 06:05:24 +0000      797 bytes  lib/tasks/build.js</tspan>
+<tspan x="10" y="858"> 45.  2017-04-20 06:05:24 +0000      409 bytes  lib/tasks/cordova.js</tspan>
+<tspan x="10" y="874"> 46.  2017-04-20 06:05:24 +0000      342 bytes  lib/tasks/create-cordova-project.js</tspan>
+<tspan x="10" y="890"> 47.  2017-04-20 06:05:24 +0000      775 bytes  lib/tasks/link-environment.js</tspan>
+<tspan x="10" y="906"> 48.  2017-04-20 06:05:24 +0000      866 bytes  lib/tasks/modify-xml.js</tspan>
+<tspan x="10" y="922"> 49.  2017-04-20 06:05:24 +0000      817 bytes  lib/tasks/open.js</tspan>
+<tspan x="10" y="938"> 50.  2017-04-20 06:05:24 +0000     1112 bytes  lib/tasks/post-build.js</tspan>
+<tspan x="10" y="954"> 51.  2017-04-20 06:05:24 +0000     1005 bytes  lib/tasks/update-config-xml-android-version-code\</tspan>
+<tspan x="10" y="970">.js</tspan>
+<tspan x="10" y="986"> 52.  2017-04-20 06:05:24 +0000      395 bytes  lib/tasks/update-config-xml-version.js</tspan>
+<tspan x="10" y="1002"> 53.  2017-04-20 06:05:24 +0000      892 bytes  lib/tasks/update-config-xml.js</tspan>
+<tspan x="10" y="1018"> 54.  2017-04-20 06:05:24 +0000      517 bytes  lib/tasks/verify-dist.js</tspan>
+<tspan x="10" y="1034"> 55.  2017-04-20 06:05:24 +0000      314 bytes  lib/ui/index.js</tspan>
+<tspan x="10" y="1050"> 56.  2017-04-20 06:05:24 +0000      138 bytes  lib/utils/default-platform.js</tspan>
+<tspan x="10" y="1066"> 57.  2017-04-20 06:05:24 +0000     1127 bytes  lib/utils/open.js</tspan>
+<tspan x="10" y="1082"> 58.  2017-04-20 06:05:24 +0000     1127 bytes  lib/utils/run-command.js</tspan>
+<tspan x="10" y="1098"> 59.  2017-04-20 06:05:24 +0000      595 bytes  lib/utils/string.js</tspan>
+<tspan x="10" y="1114"> 60.  2017-04-20 06:05:24 +0000      496 bytes  node-tests/fixtures/project/cordova/config.xml</tspan>
+<tspan x="10" y="1130"> 61.  2017-04-20 06:05:24 +0000      658 bytes  node-tests/helpers/_helper.js</tspan>
+<tspan x="10" y="1146"> 62.  2017-04-20 06:05:24 +0000      220 bytes  node-tests/helpers/mocks.js</tspan>
+<tspan x="10" y="1162"> 63.  2017-04-20 06:05:24 +0000       32 bytes  node-tests/helpers/noop.js</tspan>
+<tspan x="10" y="1178"> 64.  2017-04-20 06:05:24 +0000      356 bytes  node-tests/helpers/stub.js</tspan>
+<tspan x="10" y="1194"> 65.  2017-04-20 06:05:24 +0000     2245 bytes  node-tests/unit/addon-test.js</tspan>
+<tspan x="10" y="1210"> 66.  2017-04-20 06:05:24 +0000      558 bytes  node-tests/unit/models/project-with-config-test.\</tspan>
+<tspan x="10" y="1226">js</tspan>
+<tspan x="10" y="1242"> 67.  2017-04-20 06:05:24 +0000      711 bytes  node-tests/unit/tasks/add-platforms-test.js</tspan>
+<tspan x="10" y="1258"> 68.  2017-04-20 06:05:24 +0000     5135 bytes  node-tests/unit/tasks/archive-test.js</tspan>
+<tspan x="10" y="1274"> 69.  2017-04-20 06:05:24 +0000     2437 bytes  node-tests/unit/tasks/build-test.js</tspan>
+<tspan x="10" y="1290"> 70.  2017-04-20 06:05:24 +0000      764 bytes  node-tests/unit/tasks/cordova-test.js</tspan>
+<tspan x="10" y="1306"> 71.  2017-04-20 06:05:24 +0000      814 bytes  node-tests/unit/tasks/create-cordova-project-tes\</tspan>
+<tspan x="10" y="1322">t.js</tspan>
+<tspan x="10" y="1338"> 72.  2017-04-20 06:05:24 +0000     1380 bytes  node-tests/unit/tasks/link-environment-test.js</tspan>
+<tspan x="10" y="1354"> 73.  2017-04-20 06:05:24 +0000     2124 bytes  node-tests/unit/tasks/open-test.js</tspan>
+<tspan x="10" y="1370"> 74.  2017-04-20 06:05:24 +0000     2794 bytes  node-tests/unit/tasks/post-build-test.js</tspan>
+<tspan x="10" y="1386"> 75.  2017-04-20 06:05:24 +0000     1076 bytes  node-tests/unit/tasks/update-config-xml-test.js</tspan>
+<tspan x="10" y="1402"> 76.  2017-04-20 06:05:24 +0000      695 bytes  node-tests/unit/tasks/update-config-xml-version-\</tspan>
+<tspan x="10" y="1418">test.js</tspan>
+<tspan x="10" y="1434"> 77.  2017-04-20 06:05:24 +0000      689 bytes  node-tests/unit/tasks/verify-dist-test.js</tspan>
+<tspan x="10" y="1450"> 78.  2017-04-20 06:05:24 +0000     3813 bytes  package.json</tspan>
+<tspan x="10" y="1466"> 79.  2017-04-20 06:05:24 +0000      139 bytes  testem.json</tspan>
+</text>
+</svg>
